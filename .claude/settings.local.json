@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find '/Users/alfonso.garciamateo-sagasta/Documents/Plain Concepts/Formaciones/Anthropic Short Courses/2. Claude Code/uigen' -maxdepth 2 -name CLAUDE.md -o -name .cursorrules -o -name *.md -type f)"
+    ]
+  }
+}
